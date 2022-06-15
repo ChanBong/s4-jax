@@ -1,6 +1,6 @@
 # Structured State Space for Sequence Modelling (S4)
 
-This repository aims to implement S4 model, presented by [Gu et al.](https://arxiv.org/abs/2111.00396) in [ICRL2022](https://iclr.cc/Conferences/2022)
+This repository aims to implement S4 model, presented by [Gu et al.](https://arxiv.org/abs/2111.00396) in [ICLR2022](https://iclr.cc/Conferences/2022)
 and follow further research on this topic. Code is in [JAX](https://jax.readthedocs.io/en/latest/).
 
 Initial code is inspired from [S4 blog by @srush](https://srush.github.io/annotated-s4/). Unlike this blog
